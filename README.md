@@ -34,7 +34,7 @@ Coding is an art form. When the code is clear, expressive, and Sonar remains sil
 - I'm deeply passionate about meteorology, especially severe weather. But there is one special thing I love: snow ❄️.
 Not skiing, not snowboarding... just snow falling. There's something magical about it that’s fascinated me since I was a kid. Growing up in Barcelona, Spain, where snow is rare, made every flake feel like an event.
 These days, I spend hours analyzing weather models, calculating snow levels, and chasing even the faintest chance of flurries That lack of certainty is definitely half the thrill.
-I'm exploring a custom tool to calculate snow lines, because why not mix coding and clouds?
+I'm exploring the idea of building a custom tool to calculate snow lines, because why not mix coding and clouds?
 - Music keeps me in the flow. When I’m coding, I usually have some EDM, OST, or Spanish indie playing in the background.
 <!--
 **EspaCoder/EspaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
