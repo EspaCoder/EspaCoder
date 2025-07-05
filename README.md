@@ -35,8 +35,8 @@ Coding is an art form. When the code is clear, expressive, and Sonar remains sil
 Not skiing, not snowboarding... just snow falling. There's something magical about it that’s fascinated me since I was a kid. Growing up in Barcelona, Spain, where snow is rare, made every flake feel like an event.
 These days, I spend hours analyzing weather models, calculating snow levels, and chasing even the faintest chance of flurries That lack of certainty is definitely half the thrill.
 I'm exploring the idea of building a custom tool to calculate snow lines, because why not mix coding and clouds?
-- Another thing I truly enjoy is learning languages. Growing and being raised in a multilingual region of Spain, I've always been naturally drawn to how languages work. I like comparing their structure, vocabulary and expressions, most of the times without formally studying the grammar. Instead, I try spotting the patterns and nuances of each language by myself.
-- Music keeps me in the flow. When I’m coding, I usually have some EDM, OST, or Spanish indie playing in the background.
+- Another thing I truly enjoy is learning languages 🌍. Growing and being raised in a multilingual region of Spain, I've always been naturally drawn to how languages work. I like comparing their structure, vocabulary and expressions, most of the times without formally studying the grammar. Instead, I try spotting the patterns and nuances of each language by myself.
+- Music keeps me in the flow 🎧. When I’m coding, I usually have some EDM, OST, or Spanish indie playing in the background.
 <!--
 **EspaCoder/EspaCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
